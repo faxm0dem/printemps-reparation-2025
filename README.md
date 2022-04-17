@@ -1,2 +1,2 @@
 # revealjs-pages
-Test repo for making for publishing revealjs to github pages
+Test repo for publishing revealjs slides to github pages
