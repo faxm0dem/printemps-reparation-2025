@@ -1,7 +1,10 @@
-## Slide 1
+## Printemps de la réparation
 
-Printemps de la réparation
+Faire du neuf avec du vieux avec Linux
 
 ---
 
-## Slide 2
+## L'Opensource
+
+KESAKO
+
