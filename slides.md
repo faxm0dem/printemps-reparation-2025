@@ -26,8 +26,6 @@ Donnez une 2è jeunesse à votre ordinateur gråce à l'Opensource
 
 ![unsupported](media/materiel-non-supporte.png)
 
---
-
 ---
 
 ## L'opensource <!-- .slide: data-background-image="media/opensource.png" -->
@@ -40,22 +38,9 @@ Donnez une 2è jeunesse à votre ordinateur gråce à l'Opensource
 
 ## Les solutions
 
---
-
-## 
-
 ---
 
-## Le mot de la fin
+<!-- .slide: data-background-image="media/elephant-annote.jpg" -->
 
-Tous les logiciels du monde
-![elephant](media/elephant.jpg)
-Logiciels Open-Source
-
---
-
-Logiciels Open-Source
-![fourmi](media/fourmi.jpg)
-Les informaticiens bénévoles
-
+![fourmis](media/fourmis-annote.jpg)<!-- .element: class="fragment" style="height: 60vh" -->
 
