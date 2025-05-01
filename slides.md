@@ -24,7 +24,7 @@ Donnez une 2è jeunesse à votre ordinateur gråce à l'Opensource
 
 > Votre matériel n'est pas supporté
 
-![media/materiel-non-supporte.png]
+![unsupported](media/materiel-non-supporte.png)
 
 --
 
@@ -49,13 +49,13 @@ Donnez une 2è jeunesse à votre ordinateur gråce à l'Opensource
 ## Le mot de la fin
 
 Tous les logiciels du monde
-![media/elephant.jpg]
+![elephant](media/elephant.jpg)
 Logiciels Open-Source
 
 --
 
 Logiciels Open-Source
-![media/fourmi.jpg]
+![fourmi](media/fourmi.jpg)
 Les informaticiens bénévoles
 
 
