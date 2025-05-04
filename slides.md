@@ -47,6 +47,23 @@ Notes:
 
 <!-- .slide: data-background-video="media/windowsupdate.mp4" data-background-video-loop="true" -->
 
+--
+
+# Obsolescence programmée <!-- .element: style="color: red" -->
+
+<!-- .slide: data-background-image="media/bfm-windows-obsolete.png" -->
+
+Notes:
+
+Exemples:
+
+* TPM obligé pour Win11
+* Batteries
+* Connecteurs USB
+* CPU ARM non suivi par android
+* Ipad ou tablette non màj
+
+
 ---
 
 ## L'opensource <!-- .slide: data-background-image="media/opensource.png" -->
