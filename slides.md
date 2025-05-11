@@ -1,6 +1,6 @@
 # Faire du neuf avec du vieux
 
-Donnez une 2è jeunesse à votre ordinateur gråce à l'Opensource
+Donnez une 2è jeunesse à votre ordinateur grâce à l'Opensource
 
 ---
 
