@@ -16,7 +16,7 @@ Donnez une 2è jeunesse à votre ordinateur grâce à l'Opensource
 ## Le problème
 
 * Obsolescence programmée
-  ### Faire du vieux avec du neuf
+ - c'est: Faire du vieux avec du neuf
 * L'économie de l'abonnement
 * Le "Vendor Lock-in"
 
