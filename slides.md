@@ -75,6 +75,7 @@ Exemples:
 * Binaire + Source (mode d'emploi)
 
 --
+
 <!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Logiciel_libre" data-background-interactive="true" data-preload -->
 
 --
