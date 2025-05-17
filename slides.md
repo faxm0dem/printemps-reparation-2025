@@ -1,3 +1,4 @@
+
 # Faire du neuf avec du vieux
 
 Donnez une 2è jeunesse à votre ordinateur grâce à l'Opensource
@@ -6,9 +7,9 @@ Donnez une 2è jeunesse à votre ordinateur grâce à l'Opensource
 
 ## Plan
 
-* Le problème
+* C'est quoi le problème
+* Y a t'il des solutions
 * C'est quoi l'Opensource ?
-* Les solutions
 * Conclusion
 
 ---
@@ -30,7 +31,6 @@ Notes:
 * Emprisonnement de produits
   - On rend le truc essentiel
   - On évangélise les jeunes
-
 --
 
 ## Ça vous est déjà arrivé ?
@@ -144,23 +144,14 @@ Notes:
 * Gratuité
 * Transparence
 * Binaire + Source (mode d'emploi)
-
 --
-
 <!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Logiciel_libre" data-background-interactive="true" data-preload -->
-
 --
-
 <!-- .slide: data-background-image="media/dependency_2x.png" -->
-
 --
-
 <!-- .slide: data-background-image="media/tech-drawing.jpg, media/kicad.png" -->
-
 --
-
 <!-- .slide: data-background-image="media/kicad.png" -->
-
 ---
 
 ## Les solutions
