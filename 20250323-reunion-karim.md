@@ -50,6 +50,7 @@
                  transformer PC tour en NAS
                  transformer laptop en interphone
                  transformer tablette en télécommande universelle
+  . framasoft
 
 5. Comment marche l'opensource
   → Exemple du pelo qui développe le dreiver dans son coin
