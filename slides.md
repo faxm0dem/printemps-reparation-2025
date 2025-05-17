@@ -8,7 +8,7 @@ Donnez une 2è jeunesse à votre ordinateur grâce à l'Opensource
 ## Plan
 
 * C'est quoi le problème
-* Y a t'il des solutions
+* C'est quoi les solutions
 * C'est quoi l'Opensource ?
 * Conclusion
 
@@ -37,10 +37,26 @@ Notes:
 
 --
 
-> Votre matériel n'est pas supporté
+> Votre matériel n'est plus supporté
 
 ![unsupported](media/materiel-non-supporte.png)
+
+--
+--
+
+> Votre matériel n'est plus supporté
+
+![unsupported](media/materiel-non-supporte.png)
+- tablette sans mise à jour, plus de youtube 
+
+--
+
+> téléphone incompatible avec application :
+
 ![unsupported2](media/google-play-no-eligible-device-zoom.png)
+* bancaire,
+* média de communication avec vos potes et copines,
+* jeux ou vous passer plein de temps avec vos amis
 
 Notes:
 
@@ -52,6 +68,8 @@ Notes:
 > Votre stockage sur le cloud est presque plein !
 
 ![google-full](media/google-full.png)
+* je peux plus sauver mes photos !! 
+* je vais les perdre ... €€€€€€€€€
 
 Notes:
 
@@ -63,6 +81,13 @@ Notes:
 
 <!-- .slide: data-background-video="media/windowsupdate.mp4" data-background-video-loop="true" -->
 
+--
+
+<!-- .slide: data-background-video="media/windowsupdate.mp4" data-background-video-loop="true" -->
+
+* mises à jour forcées
+* pc qui rame de plus en plus ....
+
 Notes:
 
 * Mises à jour forcées
@@ -71,9 +96,34 @@ Notes:
 
 ---
 
-# Obsolescence programmée <!-- .element: style="color: red" -->
+<h1><span style="color: red">Obsolescence programmée</span></h1>
 
 <!-- .slide: data-background-image="media/bfm-windows-obsolete.png" -->
+
+Notes:
+
+Exemples:
+
+* TPM obligé pour Win11
+* Batteries
+* Connecteurs USB
+* CPU ARM non suivi par android
+* Ipad ou tablette non màj
+
+--
+
+# Obsolescence programmée <!-- .element: style="color: black" -->
+<!-- .slide: data-background-image="media/png/day38-macintosh.png" -->
+
+* Non ! votre pc n'est pas vieux !
+
+--
+
+# Obsolescence programmée <!-- .element: style="color: black" -->
+<!-- .slide: data-background-image="media/png/day41-desktop.png.png" -->
+
+* Non ! votre pc n'est pas inutilement inexploitable !
+
 
 Notes:
 
@@ -117,6 +167,12 @@ Notes:
 
 <!-- .slide: data-background-image="media/cd-vinyl.jpg" -->
 
+--
+
+<!-- .slide: data-background-image="media/cd-vinyl.jpg" -->
+
+* cd-vinyl
+
 Notes:
 
 * Avantages
@@ -135,15 +191,23 @@ Notes:
 
 * Pour google drive et compagnie
 * Autant utiliser le sien : NAS
+* ammortissement 
 
 ---
 
 
-## L'opensource <!-- .slide: data-background-image="media/opensource.png" -->
+## L'opensource <!-- .slide: data-background-image="media/opensource.png" size=50%-->
 
-* Gratuité
-* Transparence
-* Binaire + Source (mode d'emploi)
+* Gratuité (pour l'utilisateur lambda)
+* Transparence (certaines)
+* Binaire + Source 
+- disponible,
+- analysable (mode d'emploi)
+
+
+Notes:
+(pas toujours)
+
 --
 <!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Logiciel_libre" data-background-interactive="true" data-preload -->
 --

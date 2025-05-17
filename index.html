@@ -1,49 +1,78 @@
 <!doctype html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>Faire du neuf avec du vieux gråce à l'Opensource</title>
+    <title>Faire du neuf avec du vieux grâce à l'Opensource</title>
 
-		<link rel="stylesheet" href="revealjs/dist/reset.css">
-		<link rel="stylesheet" href="revealjs/dist/reveal.css">
-		<link rel="stylesheet" href="revealjs/dist/theme/black.css">
-		
-		<!-- Theme used for syntax highlighted code -->
-		<link rel="stylesheet" href="revealjs/plugin/highlight/monokai.css">
-		<link rel="stylesheet" href="rainbow.css"> <!-- <--- tout à la fin ! -->
+    <link rel="stylesheet" href="revealjs/dist/reset.css">
+    <link rel="stylesheet" href="revealjs/dist/reveal.css">
+    <link rel="stylesheet" href="revealjs/dist/theme/black.css">
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="revealjs/plugin/highlight/monokai.css">
+    <link rel="stylesheet" href="rainbow.css"> <!-- <--- tout à la fin ! -->
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section 
+          data-markdown="slides.md"
+          data-separator="^\r?\n---\r?\n$"
+          data-separator-vertical="^\r?\n--\r?\n$"
+        >
+        </section>
+      </div>
+    </div>
 
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section 
-					data-markdown="slides.md"
-					data-separator="^\r?\n---\r?\n$"
-					data-separator-vertical="^\r?\n--\r?\n$"
-					>
-				</section>
-			</div>
-		</div>
-
-		<script src="revealjs/dist/reveal.js"></script>
-		<script src="revealjs/plugin/notes/notes.js"></script>
-		<script src="revealjs/plugin/markdown/markdown.js"></script>
-		<script src="revealjs/plugin/highlight/highlight.js"></script>
-		<script>
-			// More info about initialization & config:
-			// - https://revealjs.com/initialization/
-			// - https://revealjs.com/config/
-			Reveal.initialize({
-				hash: true,
-				slideNumber: true,
+    <script src="revealjs/dist/reveal.js"></script>
+    <script src="revealjs/plugin/notes/notes.js"></script>
+    <script src="revealjs/plugin/markdown/markdown.js"></script>
+    <script src="revealjs/plugin/highlight/highlight.js"></script>
+    <script>
+      // Reveal.js initialization
+      Reveal.initialize({
+        hash: true,
+        slideNumber: true,
         // view: 'scroll',
-				scrollProgress: false,
-				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
-			});
-		</script>
-		<link rel="stylesheet" href="rainbow.css"> <!-- <--- tout à la fin ! -->
-	</body>
+        scrollProgress: false,
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+      });
+
+      // === Script d'inversion automatique de la couleur du texte ===
+      function getEffectiveBackgroundColor(element) {
+        let bg;
+        while(element && element !== document) {
+          bg = window.getComputedStyle(element).backgroundColor;
+          if (bg && bg !== "rgba(0, 0, 0, 0)" && bg !== "transparent") {
+            return bg;
+          }
+          element = element.parentElement;
+        }
+        return "rgb(0,0,0)";
+      }
+
+      function getLuminance(rgb) {
+        const result = rgb.match(/\d+/g);
+        if (!result) return 0;
+        const [r, g, b] = result.map(Number);
+        return (0.299 * r + 0.587 * g + 0.114 * b) / 255;
+      }
+
+      function updateSlideTextColor(event) {
+        const slide = event.currentSlide || event;
+        const bg = getEffectiveBackgroundColor(slide);
+        const lum = getLuminance(bg);
+        if (lum > 0.6) {
+          slide.classList.add('inverse');
+        } else {
+          slide.classList.remove('inverse');
+        }
+      }
+
+      Reveal.on('slidechanged', updateSlideTextColor);
+      Reveal.on('ready', e => updateSlideTextColor(e.currentSlide));
+    </script>
+  </body>
 </html>
