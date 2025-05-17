@@ -1,0 +1,243 @@
+/* --------- rainbow.css pour Reveal.js --------- */
+
+/* Police élégante et lisible */
+.reveal {
+  font-family: 'Segoe UI', 'Arial', sans-serif;
+  font-size: 2.1em;
+  letter-spacing: 0.01em;
+  color: #fff;
+}
+
+/* Centrage vertical et horizontal */
+.reveal .slides section {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Applique le dégradé arc-en-ciel seulement sur les slides SANS image/vidéo de fond */
+.slide-background:not([data-background-hash]):nth-of-type(1)  { background: linear-gradient(135deg, #FF3B30, #FF9500) !important; }
+.slide-background:not([data-background-hash]):nth-of-type(2)  { background: linear-gradient(135deg, #FF9500, #FFD60A) !important; }
+.slide-background:not([data-background-hash]):nth-of-type(3)  { background: linear-gradient(135deg, #FFD60A, #34C759) !important; }
+.slide-background:not([data-background-hash]):nth-of-type(4)  { background: linear-gradient(135deg, #34C759, #32ADE6) !important; }
+.slide-background:not([data-background-hash]):nth-of-type(5)  { background: linear-gradient(135deg, #32ADE6, #5856D6) !important; }
+.slide-background:not([data-background-hash]):nth-of-type(6)  { background: linear-gradient(135deg, #5856D6, #AF52DE) !important; }
+.slide-background:not([data-background-hash]):nth-of-type(7)  { background: linear-gradient(135deg, #AF52DE, #FF3B30) !important; }
+.slide-background:not([data-background-hash]):nth-of-type(8)  { background: linear-gradient(135deg, #FF3B30, #FF9500) !important; }
+.slide-background:not([data-background-hash]):nth-of-type(9)  { background: linear-gradient(135deg, #FF9500, #FFD60A) !important; }
+.slide-background:not([data-background-hash]):nth-of-type(10) { background: linear-gradient(135deg, #FFD60A, #34C759) !important; }
+
+/* Texte très contrasté */
+.reveal .slides section {
+  color: #fff;
+  text-shadow: 0 1px 10px rgba(0,0,0,0.18);
+}
+.reveal .slides section h1, 
+.reveal .slides section h2, 
+.reveal .slides section h3 {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0.5em;
+  letter-spacing: 0.03em;
+}
+
+/* Pour les slides à fond très clair, texte noir */
+.slide-background:not([data-background-hash]):nth-of-type(3),
+.slide-background:not([data-background-hash]):nth-of-type(9),
+.slide-background:not([data-background-hash]):nth-of-type(2) {
+  /* Sur fond jaune ou très clair, texte foncé */
+}
+.reveal .slides section:nth-of-type(3),
+.reveal .slides section:nth-of-type(9),
+.reveal .slides section:nth-of-type(2) {
+  color: #222 !important;
+  text-shadow: 0 1px 10px rgba(255,255,255,0.12);
+}
+
+/* Sous-titres et paragraphes espacés */
+.reveal h2, .reveal h3, .reveal p {
+  margin-bottom: 0.7em;
+}
+
+/* Liens bien visibles */
+.reveal a {
+  color: #fff;
+  text-decoration: underline;
+  font-weight: bold;
+  transition: color 0.2s;
+}
+.reveal a:hover {
+  color: #FFD60A;
+}
+
+/* Listes avec puces rondes et espacées */
+.reveal ul, .reveal ol {
+  margin-left: 1.5em;
+  margin-bottom: 0.7em;
+}
+.reveal li {
+  margin-bottom: 0.35em;
+}
+
+/* Images arrondies et ombrées */
+.reveal img {
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.18);
+  max-width: 80%;
+  margin: 1em 0;
+}
+
+/* Effet de transition douce entre slides */
+.slide-background:not([data-background-hash]) {
+  transition: background 0.7s cubic-bezier(.4,0,.2,1);
+}
+
+
+
+/* Images intégralement visibles, sans recadrage ni débordement */
+.reveal img {
+  max-width: 100%;
+  max-height: 100vh; /* limite la hauteur à la hauteur de la fenêtre */
+  width: auto;
+  height: auto;
+  object-fit: contain; /* garantit que l'image est entièrement visible */
+  margin: 0 auto;
+  display: block;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.18);
+}
+
+
+/* Texte très contrasté et avec contour pour une lisibilité maximale */
+
+.reveal .slides section,
+.reveal .slides section * {
+  color: #fff !important; /* Texte blanc par défaut */
+  font-weight: bold;
+  /* Contour noir autour de chaque caractère */
+  -webkit-text-stroke: 1px #000;
+  text-stroke: 1px #000; /* Pour navigateurs compatibles */
+  /* Solution de secours : ombre multiple pour simuler un contour */
+  text-shadow:
+    1px 1px 0 #000,
+    -1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000,
+    0 1px 0 #000,
+    1px 0 0 #000,
+    0 -1px 0 #000,
+    -1px 0 0 #000;
+}
+
+/* Si le fond est très clair, texte noir avec contour blanc */
+.reveal .slides section.bg-light,
+.reveal .slides section.bg-light * {
+  color: #111 !important;
+  -webkit-text-stroke: 1px #fff;
+  text-stroke: 1px #fff;
+  text-shadow:
+    1px 1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px -1px 0 #fff,
+    0 1px 0 #fff,
+    1px 0 0 #fff,
+    0 -1px 0 #fff,
+    -1px 0 0 #fff;
+}
+
+
+/* Texte plus épais avec contour plus fin pour meilleure lisibilité */
+.reveal .slides section,
+.reveal .slides section * {
+  font-weight: 900 !important; /* texte très gras */
+  color: #fff !important;
+
+  /* contour fin noir */
+  -webkit-text-stroke: 1px #000;
+  text-stroke: 1px #000;
+
+  /* contour fin simulé par ombres multiples pour compatibilité */
+  text-shadow:
+    1px 1px 0 #000,
+    -1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000,
+    0 1px 0 #000,
+    1px 0 0 #000,
+    0 -1px 0 #000,
+    -1px 0 0 #000;
+}
+
+
+/* Bordure contrastée autour des flèches de navigation Reveal.js */
+.reveal .controls .navigate-left,
+.reveal .controls .navigate-right,
+.reveal .controls .navigate-up,
+.reveal .controls .navigate-down {
+  /* Ajoute une bordure blanche et noire pour contraste maximal */
+  filter: drop-shadow(0 0 2px #000) drop-shadow(0 0 4px #fff);
+  /* Optionnel : augmente la taille pour plus de visibilité */
+  width: 48px;
+  height: 48px;
+}
+
+/* Pour les SVG des flèches, ajoute aussi un contour */
+.reveal .controls svg {
+  stroke: #fff;
+  stroke-width: 2px;
+  filter: drop-shadow(0 0 2px #000) drop-shadow(0 0 4px #fff);
+}
+
+/* Si tu veux un effet de survol encore plus visible */
+.reveal .controls button:hover,
+.reveal .controls button:focus {
+  filter: drop-shadow(0 0 6px #FFD60A) drop-shadow(0 0 2px #000);
+  background: rgba(0,0,0,0.15);
+}
+
+
+
+.reveal .slides section h1 span,
+.reveal .slides section h2 span,
+.reveal .slides section h3 span,
+.reveal .slides section p span {
+  color: red !important;
+}
+
+/* Classe pour inverser la couleur du texte selon le fond */
+.reveal .slides section.inverse,
+.reveal .slides section.inverse * {
+  color: #111 !important;
+  -webkit-text-stroke: 1px #fff;
+  text-stroke: 1px #fff;
+  text-shadow:
+    1px 1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px -1px 0 #fff,
+    0 1px 0 #fff,
+    1px 0 0 #fff,
+    0 -1px 0 #fff,
+    -1px 0 0 #fff;
+}
+
+
+/* Limite toutes les images à la taille de la slide, tout en gardant les proportions */
+.reveal section img,
+.reveal section picture img {
+  display: block;
+  margin: 1em auto;
+  max-width: 90vw;
+  max-height: 70vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.18);
+  border-radius: 12px;
+}
+
+
+/* --------- FIN --------- */
