@@ -113,14 +113,16 @@ Exemples:
 --
 
 # Obsolescence programmée <!-- .element: style="color: black" -->
-<!-- .slide: data-background-image="media/png/day38-macintosh.png" -->
+
+![unsupported38](media/png/day38-macintosh.png)
 
 * Non ! votre pc n'est pas vieux !
 
 --
 
 # Obsolescence programmée <!-- .element: style="color: black" -->
-<!-- .slide: data-background-image="media/png/day41-desktop.png.png" -->
+
+![unsupported38](media/png/day41-desktop.png)
 
 * Non ! votre pc n'est pas inutilement inexploitable !
 
