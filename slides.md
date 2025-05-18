@@ -42,12 +42,7 @@ Notes:
 
 ![unsupported](media/materiel-non-supporte.png)
 
---
-
-> Votre matériel n'est plus supporté
-
-![unsupported](media/materiel-non-supporte.png)
-- tablette sans mise à jour, plus de youtube 
+- tablette sans mise à jour, plus de youtube <!-- .element: class="fragment" -->
 
 --
 
@@ -81,12 +76,8 @@ Notes:
 
 <!-- .slide: data-background-video="media/windowsupdate.mp4" data-background-video-loop="true" -->
 
---
-
-<!-- .slide: data-background-video="media/windowsupdate.mp4" data-background-video-loop="true" -->
-
-* mises à jour forcées
-* pc qui rame de plus en plus ....
+* mises à jour forcées <!-- .element: class="fragment" data-fragment-index="1" -->
+* pc qui rame de plus en plus .... <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Notes:
 
@@ -169,11 +160,7 @@ Notes:
 
 <!-- .slide: data-background-image="media/cd-vinyl.jpg" -->
 
---
-
-<!-- .slide: data-background-image="media/cd-vinyl.jpg" -->
-
-* cd-vinyl
+* cd-vinyl <!-- .element: class="fragment" -->
 
 Notes:
 
