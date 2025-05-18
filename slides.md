@@ -106,7 +106,7 @@ Exemples:
 
 # Obsolescence programmée <!-- .element: style="color: black" -->
 
-![unsupported38](media/png/day38-macintosh.png)
+<!-- .slide: data-background-image="media/png/day38-macintosh.png" -->
 
 * Non ! Votre PC n'est pas vieux !
 
@@ -114,8 +114,7 @@ Exemples:
 
 # Obsolescence programmée <!-- .element: style="color: black" -->
 
-![unsupported38](media/png/day41-desktop.png)
-
+<!-- .slide: data-background-image="media/png/day41-desktop.png" -->
 * Non ! Votre PC n'est pas inutilement inexploitable !
 
 
@@ -204,7 +203,7 @@ Notes:
 
 --
 
-<!-- .slide: data-background-image="media/dependency_2x.png" -->
+<!-- .slide: data-background-image="media/dependency_2x.png" data-background-size="contain" -->
 
 --
 

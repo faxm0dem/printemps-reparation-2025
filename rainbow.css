@@ -239,5 +239,8 @@
   border-radius: 12px;
 }
 
+/* Images Individuelles */
+
+img[alt="google-full"] { width: 50vw !important; }
 
 /* --------- FIN --------- */
