@@ -9,7 +9,7 @@ Objectif de ce talk : vous donner envie d'installer Linux sur vos vieux (et nouv
 
 ---
 
-## Plan
+# Plan
 
 * C'est quoi le problème
 * C'est quoi les solutions
@@ -23,7 +23,7 @@ Notes:
 
 ---
 
-## Les problèmes
+# Les problèmes
 
 * Obsolescence programmée
   - Faire du vieux avec du neuf <!-- .element: class="fragment" data-fragment-index="1"-->
@@ -149,7 +149,7 @@ Exemples:
 
 ---
 
-## L'économie de l'abonnement <!-- .slide: data-background-image="media/econosclavagisme.jpg" -->
+# L'économie de l'abonnement <!-- .slide: data-background-image="media/econosclavagisme.jpg" -->
 
 Notes:
 
@@ -246,7 +246,7 @@ Rappel : le cloud n'existe pas
 ---
 
 
-## L'opensource <!-- .slide: data-background-image="media/opensource.png" size=50%-->
+# L'Opensource <!-- .slide: data-background-image="media/opensource.png" size=50%-->
 
 * Gratuité (pour l'utilisateur lambda)
 * Transparence (certaines)
@@ -303,7 +303,7 @@ Si on compare le logiciel libre à un objet électronique
 
 ---
 
-## Les solutions
+# Les solutions
 
 --
 
