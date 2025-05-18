@@ -52,6 +52,7 @@ Notes:
 
 * Bancaire
 * Média de communication avec vos proches
+* Jeux en réseaux
 
 Notes:
 
