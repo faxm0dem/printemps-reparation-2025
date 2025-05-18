@@ -25,7 +25,7 @@ Notes:
 
 # Les problèmes
 
-* Obsolescence programmée
+* L'obsolescence programmée
   - Faire du vieux avec du neuf <!-- .element: class="fragment" data-fragment-index="1"-->
 * L'économie de l'abonnement
   - L'esclavagisme économique <!-- .element: class="fragment" data-fragment-index="1"-->
@@ -242,6 +242,12 @@ Rappel : le cloud n'existe pas
 * Pour google drive et compagnie
 * Autant utiliser le sien : NAS
 * ammortissement 
+
+--
+
+> On n'achète plus les logiciels, les films et les albums, mais le droit de les utiliser
+
+> Si c'est gratuit, c'est toi le produit !
 
 ---
 
