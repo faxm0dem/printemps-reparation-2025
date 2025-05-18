@@ -31,6 +31,7 @@ Notes:
 * Emprisonnement de produits
   - On rend le truc essentiel
   - On évangélise les jeunes
+
 --
 
 ## Ça vous est déjà arrivé ?
@@ -41,7 +42,6 @@ Notes:
 
 ![unsupported](media/materiel-non-supporte.png)
 
---
 --
 
 > Votre matériel n'est plus supporté
@@ -211,13 +211,21 @@ Notes:
 (pas toujours)
 
 --
+
 <!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Logiciel_libre" data-background-interactive="true" data-preload -->
+
 --
+
 <!-- .slide: data-background-image="media/dependency_2x.png" -->
+
 --
+
 <!-- .slide: data-background-image="media/tech-drawing.jpg, media/kicad.png" -->
+
 --
+
 <!-- .slide: data-background-image="media/kicad.png" -->
+
 ---
 
 ## Les solutions
