@@ -42,16 +42,16 @@ Notes:
 
 ![unsupported](media/materiel-non-supporte.png)
 
-- tablette sans mise à jour, plus de youtube <!-- .element: class="fragment" -->
+- Tablette sans mise à jour, plus de youtube <!-- .element: class="fragment" -->
 
 --
 
-> téléphone incompatible avec application :
+> Téléphone et application incompatibles
 
 ![unsupported2](media/google-play-no-eligible-device-zoom.png)
-* bancaire,
-* média de communication avec vos potes et copines,
-* jeux ou vous passer plein de temps avec vos amis
+
+* Bancaire
+* Média de communication avec vos proches
 
 Notes:
 
@@ -63,8 +63,8 @@ Notes:
 > Votre stockage sur le cloud est presque plein !
 
 ![google-full](media/google-full.png)
-* je peux plus sauver mes photos !! 
-* je vais les perdre ... €€€€€€€€€
+* Je peux plus sauver mes photos !! 
+* Je vais les perdre ... €€€€€€€€€
 
 Notes:
 
@@ -76,8 +76,8 @@ Notes:
 
 <!-- .slide: data-background-video="media/windowsupdate.mp4" data-background-video-loop="true" -->
 
-* mises à jour forcées <!-- .element: class="fragment" data-fragment-index="1" -->
-* pc qui rame de plus en plus .... <!-- .element: class="fragment" data-fragment-index="1" -->
+* Mises à jour forcées <!-- .element: class="fragment" data-fragment-index="1" -->
+* PC qui rame de plus en plus .... <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Notes:
 
@@ -107,7 +107,7 @@ Exemples:
 
 ![unsupported38](media/png/day38-macintosh.png)
 
-* Non ! votre pc n'est pas vieux !
+* Non ! Votre PC n'est pas vieux !
 
 --
 
@@ -115,7 +115,7 @@ Exemples:
 
 ![unsupported38](media/png/day41-desktop.png)
 
-* Non ! votre pc n'est pas inutilement inexploitable !
+* Non ! Votre PC n'est pas inutilement inexploitable !
 
 
 Notes:
@@ -160,7 +160,7 @@ Notes:
 
 <!-- .slide: data-background-image="media/cd-vinyl.jpg" -->
 
-* cd-vinyl <!-- .element: class="fragment" -->
+* CDs, Vinyles <!-- .element: class="fragment" -->
 
 Notes:
 
