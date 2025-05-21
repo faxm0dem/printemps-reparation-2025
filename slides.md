@@ -28,9 +28,9 @@ Notes:
 * L'obsolescence programmée
   - Faire du vieux avec du neuf <!-- .element: class="fragment" data-fragment-index="1"-->
 * L'économie de l'abonnement
-  - L'esclavagisme économique <!-- .element: class="fragment" data-fragment-index="1"-->
+  - L'esclavagisme économique <!-- .element: class="fragment" data-fragment-index="2"-->
 * Le "Vendor Lock-in"
-  - Rendre indispensable <!-- .element: class="fragment" data-fragment-index="1"-->
+  - Rendre indispensable <!-- .element: class="fragment" data-fragment-index="3"-->
 
 Notes:
 
@@ -325,26 +325,33 @@ Si on compare le logiciel libre à un objet électronique
 
 --
 
-
 ### Pour Chaque logiciel privateur
-### plus d'une alternative libre
+plus d'une alternative libre
 
-* Système d'exploitation
-* navigateur, messageries, courriel
-* retouche/gallerie photos
-* player musique/video
-* lecteurs de document
-* sauvegarde
-* visio-conférence
-* jeux
-
+* Système d'exploitation <!-- .element: class="fragment" -->
+* navigateur, messageries, courriel <!-- .element: class="fragment" -->
+* retouche/gallerie photos <!-- .element: class="fragment" -->
+* player musique/video <!-- .element: class="fragment" -->
+* lecteurs de document <!-- .element: class="fragment" -->
+* sauvegarde <!-- .element: class="fragment" -->
+* visio-conférence <!-- .element: class="fragment" -->
+* jeux <!-- .element: class="fragment" -->
 
 -- 
 
-
 ### la liste est vraiment longue
 
-<!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels_propri%C3%A9taires" data-background-interactive="true" data-preload -->
+<!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels_propri%C3%A9taires" data-background-interactive="true" data-preload --><!-- .element: class="fragment" -->
+
+https://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels_propri%C3%A9taires
+
+-- 
+
+### pour s'y retrouver
+
+<!-- .slide: data-background-iframe="https://framalibre.org/" data-background-interactive="true" data-preload -->
+
+https://framalibre.org/
 
 
 --
@@ -434,12 +441,19 @@ https://degooglisons-internet.org/fr/
 
 --
 
+
+### même le gouvernement nous y incite
+
+<!-- .slide: data-background-iframe="https://lesbases.anct.gouv.fr/ressources/webinaire-adopter-des-outils-ethiques-dans-mon-association" data-background-interactive="true" data-preload -->
+
+https://lesbases.anct.gouv.fr/ressources/webinaire-adopter-des-outils-ethiques-dans-mon-association
+
+--
+
 ### même le gouvernement nous y incite
 
 
 <!-- .slide: data-background-iframe="https://framatube.org/w/1XzQFwBU735v85UmEo2FgL" data-background-interactive="true" data-preload -->
-
-
 
 
 ---
