@@ -272,6 +272,8 @@ Pour les logiciels, l'opensource va nous sauver !
 
 <!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Logiciel_libre" data-background-interactive="true" data-preload -->
 
+https://fr.wikipedia.org/wiki/Logiciel_libre
+
 Notes:
 
 Voici la définition de l'open-source selon wikipedia
@@ -321,9 +323,52 @@ Si on compare le logiciel libre à un objet électronique
 
 ![gimp](media/gimp.jpg)
 
+--
+
+## Alternatives Matérielles
+
+--
+
+### Fairphone
+
+<!-- .slide: data-background-iframe="https://shop.fairphone.com/fr/fairphone-5" data-background-interactive="true" data-preload -->
+
+https://shop.fairphone.com/fr/fairphone-5
+
+--
+
+### Indice de réparabilité
+
+<!-- .slide: data-background-iframe="https://www.indicereparabilite.fr/appareils/multimedia/ordinateur-portable/" data-background-interactive="true" data-preload -->
+
+https://www.indicereparabilite.fr/appareils/multimedia/ordinateur-portable/
+
+--
+
+### Vérifier s'il existe des tutos
+
+<!-- .slide: data-background-iframe="https://fr.ifixit.com/" data-background-interactive="true" data-preload -->
+
+https://fr.ifixit.com/
+
+--
+
+### Dégooglisons internet !
+
+<!-- .slide: data-background-iframe="https://degooglisons-internet.org/fr/" data-background-interactive="true" data-preload -->
+
+https://degooglisons-internet.org/fr/
+
+
 ---
 
 <!-- .slide: data-background-image="media/elephant-annote.jpg" -->
 
 ![fourmis](media/fourmis-annote.jpg)<!-- .element: class="fragment" style="height: 60vh" -->
+
+--
+
+Lien vers cette présentation :
+
+[![qr-code](media/qr-code.png)](https://faxm0dem.github.io/printemps-reparation-2025/)
 
