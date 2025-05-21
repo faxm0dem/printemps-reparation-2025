@@ -325,6 +325,78 @@ Si on compare le logiciel libre à un objet électronique
 
 --
 
+
+### Pour Chaque logiciel privateur
+### plus d'une alternative libre
+
+* Système d'exploitation
+* navigateur, messageries, courriel
+* retouche/gallerie photos
+* player musique/video
+* lecteurs de document
+* sauvegarde
+* visio-conférence
+* jeux
+
+
+-- 
+
+
+### la liste est vraiment longue
+
+<!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels_propri%C3%A9taires" data-background-interactive="true" data-preload -->
+
+
+--
+
+### Pour Chaque logiciel privateur
+plus d'une alternative libre
+
+<!-- .slide: data-background-iframe="https://distrowatch.com/?language=FR" data-background-interactive="true" data-preload -->
+
+Système d'exploitation = OS = Operating System
+
+Windows vs les linux
+
+(ubuntu, debian, gentoo, slackware, suze, ... )
+
+--
+
+### os-debian
+
+![debian](media/debian.png)
+
+--
+
+### os-haiku
+
+![haiku](media/haiku.png)
+
+--
+
+### os-mint
+
+![mint](media/mint.png)
+
+--
+
+### os-ubuntu
+
+![ubuntu](media/ubuntu.png)
+
+--
+
+## Alternatives logicielles pour les smartphones
+
+
+<!-- .slide: data-background-iframe="https://lesbases.anct.gouv.fr/ressources/les-os-de-smartphones-degooglises" data-background-interactive="true" data-preload -->
+
+https://lesbases.anct.gouv.fr/ressources/les-os-de-smartphones-degooglises
+
+
+--
+
+
 ## Alternatives Matérielles
 
 --
@@ -358,6 +430,16 @@ https://fr.ifixit.com/
 <!-- .slide: data-background-iframe="https://degooglisons-internet.org/fr/" data-background-interactive="true" data-preload -->
 
 https://degooglisons-internet.org/fr/
+
+
+--
+
+### même le gouvernement nous y incite
+
+
+<!-- .slide: data-background-iframe="https://framatube.org/w/1XzQFwBU735v85UmEo2FgL" data-background-interactive="true" data-preload -->
+
+
 
 
 ---
