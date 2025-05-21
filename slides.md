@@ -272,6 +272,8 @@ Pour les logiciels, l'opensource va nous sauver !
 
 <!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Logiciel_libre" data-background-interactive="true" data-preload -->
 
+https://fr.wikipedia.org/wiki/Logiciel_libre
+
 Notes:
 
 Voici la définition de l'open-source selon wikipedia
