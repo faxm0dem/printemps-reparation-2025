@@ -366,3 +366,9 @@ https://degooglisons-internet.org/fr/
 
 ![fourmis](media/fourmis-annote.jpg)<!-- .element: class="fragment" style="height: 60vh" -->
 
+--
+
+Lien vers cette présentation :
+
+[![qr-code](media/qr-code.png)](https://faxm0dem.github.io/printemps-reparation-2025/)
+
