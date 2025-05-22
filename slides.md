@@ -286,10 +286,6 @@ Voici la définition de l'open-source selon wikipedia
 
 --
 
-<!-- .slide: data-background-image="media/dependency_2x.png" data-background-size="contain" -->
-
---
-
 <!-- .slide: data-background-image="media/tech-drawing.jpg, media/kicad.png" -->
 
 Notes:
@@ -314,6 +310,17 @@ Si on compare le logiciel libre à un objet électronique
 * les couches
 * les composants
 * le schéma électrique
+
+--
+
+<!-- .slide: data-background-image="media/dependency_2x.png" data-background-size="contain" -->
+
+Notes:
+
+* Des fois tout dépend d'un petit composant logiciel
+* Si ce-dernier casse, tout tombe
+* Chateau de cartes
+* Oui c'est déjà arrivé cf. nodejs
 
 ---
 
