@@ -128,6 +128,12 @@ Exemples:
 <!-- .slide: data-background-image="media/png/day38-macintosh.png" -->
 
 * Non ! Votre PC n'est pas vieux !
+* Non ! Votre PC n'est pas plus lent qu'avant !
+
+Notes:
+
+* Les ordis ne ralentissent pas avec le temps
+* C'est les logiciels qui sont de plus en plus gourmands
 
 --
 
@@ -270,17 +276,13 @@ Pour les logiciels, l'opensource va nous sauver !
 
 --
 
-<!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Logiciel_libre" data-background-interactive="true" data-preload -->
+<!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Logiciel_libre"  data-preload -->
 
 https://fr.wikipedia.org/wiki/Logiciel_libre
 
 Notes:
 
 Voici la définition de l'open-source selon wikipedia
-
---
-
-<!-- .slide: data-background-image="media/dependency_2x.png" data-background-size="contain" -->
 
 --
 
@@ -308,6 +310,17 @@ Si on compare le logiciel libre à un objet électronique
 * les couches
 * les composants
 * le schéma électrique
+
+--
+
+<!-- .slide: data-background-image="media/dependency_2x.png" data-background-size="contain" -->
+
+Notes:
+
+* Des fois tout dépend d'un petit composant logiciel
+* Si ce-dernier casse, tout tombe
+* Chateau de cartes
+* Oui c'est déjà arrivé cf. nodejs
 
 ---
 
@@ -341,7 +354,7 @@ plus d'une alternative libre
 
 ### la liste est vraiment longue
 
-<!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels_propri%C3%A9taires" data-background-interactive="true" data-preload --><!-- .element: class="fragment" -->
+<!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels_propri%C3%A9taires"  data-preload --><!-- .element: class="fragment" -->
 
 https://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels_propri%C3%A9taires
 
@@ -349,7 +362,7 @@ https://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels
 
 ### pour s'y retrouver
 
-<!-- .slide: data-background-iframe="https://framalibre.org/" data-background-interactive="true" data-preload -->
+<!-- .slide: data-background-iframe="https://framalibre.org/"  data-preload -->
 
 https://framalibre.org/
 
@@ -359,7 +372,7 @@ https://framalibre.org/
 ### Pour Chaque logiciel privateur
 plus d'une alternative libre
 
-<!-- .slide: data-background-iframe="https://distrowatch.com/?language=FR" data-background-interactive="true" data-preload -->
+<!-- .slide: data-background-iframe="https://distrowatch.com/?language=FR"  data-preload -->
 
 Système d'exploitation = OS = Operating System
 
@@ -396,7 +409,7 @@ Windows vs les linux
 ## Alternatives logicielles pour les smartphones
 
 
-<!-- .slide: data-background-iframe="https://lesbases.anct.gouv.fr/ressources/les-os-de-smartphones-degooglises" data-background-interactive="true" data-preload -->
+<!-- .slide: data-background-iframe="https://lesbases.anct.gouv.fr/ressources/les-os-de-smartphones-degooglises" data-preload -->
 
 https://lesbases.anct.gouv.fr/ressources/les-os-de-smartphones-degooglises
 
@@ -410,7 +423,7 @@ https://lesbases.anct.gouv.fr/ressources/les-os-de-smartphones-degooglises
 
 ### Fairphone
 
-<!-- .slide: data-background-iframe="https://shop.fairphone.com/fr/fairphone-5" data-background-interactive="true" data-preload -->
+<!-- .slide: data-background-iframe="https://shop.fairphone.com/fr/fairphone-5" data-preload -->
 
 https://shop.fairphone.com/fr/fairphone-5
 
@@ -418,7 +431,7 @@ https://shop.fairphone.com/fr/fairphone-5
 
 ### Indice de réparabilité
 
-<!-- .slide: data-background-iframe="https://www.indicereparabilite.fr/appareils/multimedia/ordinateur-portable/" data-background-interactive="true" data-preload -->
+<!-- .slide: data-background-iframe="https://www.indicereparabilite.fr/appareils/multimedia/ordinateur-portable/"  data-preload -->
 
 https://www.indicereparabilite.fr/appareils/multimedia/ordinateur-portable/
 
@@ -426,7 +439,7 @@ https://www.indicereparabilite.fr/appareils/multimedia/ordinateur-portable/
 
 ### Vérifier s'il existe des tutos
 
-<!-- .slide: data-background-iframe="https://fr.ifixit.com/" data-background-interactive="true" data-preload -->
+<!-- .slide: data-background-iframe="https://fr.ifixit.com/"  data-preload -->
 
 https://fr.ifixit.com/
 
@@ -434,7 +447,7 @@ https://fr.ifixit.com/
 
 ### Dégooglisons internet !
 
-<!-- .slide: data-background-iframe="https://degooglisons-internet.org/fr/" data-background-interactive="true" data-preload -->
+<!-- .slide: data-background-iframe="https://degooglisons-internet.org/fr/"  data-preload -->
 
 https://degooglisons-internet.org/fr/
 
@@ -444,7 +457,7 @@ https://degooglisons-internet.org/fr/
 
 ### même le gouvernement nous y incite
 
-<!-- .slide: data-background-iframe="https://lesbases.anct.gouv.fr/ressources/webinaire-adopter-des-outils-ethiques-dans-mon-association" data-background-interactive="true" data-preload -->
+<!-- .slide: data-background-iframe="https://lesbases.anct.gouv.fr/ressources/webinaire-adopter-des-outils-ethiques-dans-mon-association"  data-preload -->
 
 https://lesbases.anct.gouv.fr/ressources/webinaire-adopter-des-outils-ethiques-dans-mon-association
 
@@ -453,7 +466,7 @@ https://lesbases.anct.gouv.fr/ressources/webinaire-adopter-des-outils-ethiques-d
 ### même le gouvernement nous y incite
 
 
-<!-- .slide: data-background-iframe="https://framatube.org/w/1XzQFwBU735v85UmEo2FgL" data-background-interactive="true" data-preload -->
+<!-- .slide: data-background-iframe="https://framatube.org/w/1XzQFwBU735v85UmEo2FgL"  data-preload -->
 
 
 ---
