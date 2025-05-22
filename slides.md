@@ -194,7 +194,7 @@ des films !
 
 --
 
-<!-- .slide: data-background-image="media/abo.png" data-background="white" -->
+<!-- .slide: data-background-image="media/abo.png" -->
 
 Notes:
 
