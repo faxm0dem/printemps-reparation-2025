@@ -17,17 +17,6 @@
   min-height: 100vh;
 }
 
-/* Applique le dégradé arc-en-ciel seulement sur les slides SANS image/vidéo de fond */
-.slide-background:not([data-background-hash]):nth-of-type(1)  { background: linear-gradient(135deg, #AA3B30, #999500); }
-.slide-background:not([data-background-hash]):nth-of-type(2)  { background: linear-gradient(135deg, #AA9500, #99D60A); }
-.slide-background:not([data-background-hash]):nth-of-type(3)  { background: linear-gradient(135deg, #AAD60A, #34C759); }
-.slide-background:not([data-background-hash]):nth-of-type(4)  { background: linear-gradient(135deg, #34C759, #3289E6); }
-.slide-background:not([data-background-hash]):nth-of-type(5)  { background: linear-gradient(135deg, #32ADE6, #5856D6); }
-.slide-background:not([data-background-hash]):nth-of-type(6)  { background: linear-gradient(135deg, #5856D6, #AF5278); }
-.slide-background:not([data-background-hash]):nth-of-type(7)  { background: linear-gradient(135deg, #AF52DE, #FF3B30); }
-.slide-background:not([data-background-hash]):nth-of-type(8)  { background: linear-gradient(135deg, #FF3B30, #FF9500); }
-.slide-background:not([data-background-hash]):nth-of-type(9)  { background: linear-gradient(135deg, #FF9500, #FFD60A); }
-.slide-background:not([data-background-hash]):nth-of-type(10) { background: linear-gradient(135deg, #FFD60A, #34C759); }
 
 /* Texte très contrasté */
 .reveal .slides section {
