@@ -128,6 +128,12 @@ Exemples:
 <!-- .slide: data-background-image="media/png/day38-macintosh.png" -->
 
 * Non ! Votre PC n'est pas vieux !
+* Non ! Votre PC n'est pas plus lent qu'avant !
+
+Notes:
+
+* Les ordis ne ralentissent pas avec le temps
+* C'est les logiciels qui sont de plus en plus gourmands
 
 --
 
