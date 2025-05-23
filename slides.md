@@ -91,20 +91,6 @@ Notes:
 * Les photos sont de plus en plus grosses (course aux méga-pixels)
 * Si on ne fait rien, le téléphone dysfonctionne
 
---
-
-<!-- .slide: data-background-video="media/windowsupdate.mp4" data-background-video-loop="true" -->
-
-* Mises à jour forcées <!-- .element: class="fragment" data-fragment-index="1" -->
-* PC qui rame de plus en plus .... <!-- .element: class="fragment" data-fragment-index="1" -->
-
-Notes:
-
-* Ne sont concernés pas que les smartphones, aussi les PC !
-* Mises à jour forcées
-* Sécurité oui, mais...
-* Si c'est pour des fonctionalités inutiles...
-
 ---
 
 <h1><span style="color: red">Obsolescence programmée</span></h1>
@@ -123,9 +109,7 @@ Exemples:
 
 --
 
-# Obsolescence programmée <!-- .element: style="color: black" -->
-
-<!-- .slide: data-background-image="media/png/day38-macintosh.png" -->
+![mac](media/png/day38-macintosh.png)
 
 * Non ! Votre PC n'est pas vieux !
 * Non ! Votre PC n'est pas plus lent qu'avant !
@@ -134,14 +118,13 @@ Notes:
 
 * Les ordis ne ralentissent pas avec le temps
 * C'est les logiciels qui sont de plus en plus gourmands
+* Bon OK des fois il faut remplacer le ventilateur, la batterie ou la pile bouton
+* Le Repair-Café est là pour ça !
 
 --
 
-# Obsolescence programmée <!-- .element: style="color: black" -->
-
-<!-- .slide: data-background-image="media/png/day41-desktop.png" -->
+![desktop](media/png/day41-desktop.png)
 * Non ! Votre PC n'est pas inutilement inexploitable !
-
 
 Notes:
 
@@ -152,6 +135,29 @@ Exemples:
 * Connecteurs USB
 * CPU ARM non suivi par android
 * Ipad ou tablette non màj
+
+--
+
+<!-- .slide: data-background-video="media/windowsupdate.mp4" data-background-video-loop="true" -->
+
+* Mises à jour forcées <!-- .element: class="fragment" data-fragment-index="1" -->
+* PC qui rame de plus en plus .... <!-- .element: class="fragment" data-fragment-index="1" -->
+
+Notes:
+
+* Ne sont concernés pas que les smartphones, aussi les PC !
+* Mises à jour forcées
+* Sécurité oui, mais...
+* Si c'est pour des fonctionalités inutiles...
+
+--
+
+![updates](media/updates.png)
+
+Notes:
+
+* Mises à jour constantes
+* Au bout d'une semaine toutes les applis se mettent à jour environ
 
 ---
 
@@ -322,6 +328,14 @@ Notes:
 * Chateau de cartes
 * Oui c'est déjà arrivé cf. nodejs
 
+--
+
+<!-- .slide: data-background-image="media/elephant-annote.jpg" -->
+
+![fourmis](media/fourmis-annote.jpg)<!-- .element: class="fragment" style="height: 60vh" -->
+
+--
+
 ---
 
 # Les solutions
@@ -338,19 +352,19 @@ Notes:
 
 --
 
-### Pour Chaque logiciel privateur
-plus d'une alternative libre
+### Pour Chaque logiciel privateur plus d'une alternative libre
 
 * Système d'exploitation <!-- .element: class="fragment" -->
-* navigateur, messageries, courriel <!-- .element: class="fragment" -->
-* retouche/gallerie photos <!-- .element: class="fragment" -->
-* player musique/video <!-- .element: class="fragment" -->
-* lecteurs de document <!-- .element: class="fragment" -->
-* sauvegarde <!-- .element: class="fragment" -->
-* visio-conférence <!-- .element: class="fragment" -->
-* jeux <!-- .element: class="fragment" -->
+* Navigateur, messageries courriel <!-- .element: class="fragment" -->
+* Retouche/galerie photos <!-- .element: class="fragment" -->
+* Lecteur musique/video <!-- .element: class="fragment" -->
+* Bureautique <!-- .element: class="fragment" -->
+* Sauvegarde <!-- .element: class="fragment" -->
+* Visio-conférence <!-- .element: class="fragment" -->
+* Jeux <!-- .element: class="fragment" -->
+* ... <!-- .element: class="fragment" -->
 
--- 
+--
 
 ### la liste est vraiment longue
 
@@ -358,7 +372,7 @@ plus d'une alternative libre
 
 https://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels_propri%C3%A9taires
 
--- 
+--
 
 ### pour s'y retrouver
 
@@ -369,8 +383,7 @@ https://framalibre.org/
 
 --
 
-### Pour Chaque logiciel privateur
-plus d'une alternative libre
+### Pour Chaque logiciel privateur plus d'une alternative libre
 
 <!-- .slide: data-background-iframe="https://distrowatch.com/?language=FR"  data-preload -->
 
@@ -470,12 +483,6 @@ https://lesbases.anct.gouv.fr/ressources/webinaire-adopter-des-outils-ethiques-d
 
 
 ---
-
-<!-- .slide: data-background-image="media/elephant-annote.jpg" -->
-
-![fourmis](media/fourmis-annote.jpg)<!-- .element: class="fragment" style="height: 60vh" -->
-
---
 
 Lien vers cette présentation :
 

@@ -232,5 +232,7 @@
 
 img[alt="google-full"] { width: 50vw !important; }
 img[alt="nas"] { width: 50vw !important; }
+img[alt="mac"] { width: 20vw !important; }
+img[alt="desktop"] { width: 20vw !important; }
 
 /* --------- FIN --------- */
