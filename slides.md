@@ -423,7 +423,7 @@ Windows vs les linux
 https://lesbases.anct.gouv.fr/ressources/les-os-de-smartphones-degooglises
 
 
---
+---
 
 
 ## Alternatives Matérielles
