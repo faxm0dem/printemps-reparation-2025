@@ -236,7 +236,9 @@ img[alt="mac"] { width: 20vw !important; }
 img[alt="desktop"] { width: 20vw !important; }
 img[alt="gimp"] { width: 40vw !important; }
 img[alt="debian"] { width: 40vw !important; }
-img[alt="mint"] { width: 50vw !important; }
-img[alt="ubuntu"] { width: 50vw !important; }
+img[alt="haiku"] { width: 45vw !important; }
+img[alt="mint"] { width: 45vw !important; }
+img[alt="ubuntu"] { width: 45vw !important; }
+img[alt="mistral"] { width: 35vw !important; }
 
 /* --------- FIN --------- */

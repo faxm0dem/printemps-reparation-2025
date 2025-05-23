@@ -26,11 +26,11 @@ Notes:
 # Les problèmes
 
 * L'obsolescence programmée
-  - Faire du vieux avec du neuf <!-- .element: class="fragment" data-fragment-index="1"-->
+  - Faire du vieux avec du neuf <!-- .element: class="fragment" data-fragment-index="1" style="color: orange !important;text-shadow: black 2px 2px;" -->
 * L'économie de l'abonnement
-  - L'esclavagisme économique <!-- .element: class="fragment" data-fragment-index="2"-->
+  - L'esclavagisme économique <!-- .element: class="fragment" data-fragment-index="2" style="color: orange !important;text-shadow: black 2px 2px;" -->
 * Le "Vendor Lock-in"
-  - Rendre indispensable <!-- .element: class="fragment" data-fragment-index="3"-->
+  - Rendre indispensable <!-- .element: class="fragment" data-fragment-index="3" style="color: orange !important;text-shadow: black 2px 2px;" -->
 
 Notes:
 
@@ -56,7 +56,12 @@ Quelques exemples du problème
 
 ![unsupported](media/materiel-non-supporte.png)
 
-- Tablette sans mise à jour, plus de youtube <!-- .element: class="fragment" -->
+- Tablette sans mise à jour, plus de youtube <!-- .element: class="fragment" style="color: orange !important;text-shadow: black 2px 2px;" -->
+
+Notes:
+
+* Matériel fonctionne parfaitement
+* Logiciel ne fonctionne plus
 
 --
 
@@ -64,9 +69,9 @@ Quelques exemples du problème
 
 ![unsupported2](media/google-play-no-eligible-device-zoom.png)
 
-* Bancaire
-* Média de communication avec vos proches
-* Jeux en réseaux
+* Bancaire <!-- .element: class="fragment" data-fragment-index="1" style="color: orange !important;text-shadow: black 2px 2px;" -->
+* Média de communication avec vos proches <!-- .element: class="fragment" data-fragment-index="1" style="color: orange !important;text-shadow: black 2px 2px;" -->
+* Jeux en réseaux <!-- .element: class="fragment" data-fragment-index="1" style="color: orange !important;text-shadow: black 2px 2px;" -->
 
 Notes:
 
@@ -80,8 +85,9 @@ Notes:
 > Votre stockage sur le cloud est presque plein !
 
 ![google-full](media/google-full.png)
-* Je peux plus sauver mes photos !! 
-* Je vais les perdre ... €€€€€€€€€
+
+* Je peux plus sauver mes photos !! <!-- .element: class="fragment" data-fragment-index="1" style="color: orange !important;text-shadow: black 2px 2px;" -->
+* Je vais les perdre ... €€€€€€€€€ <!-- .element: class="fragment" data-fragment-index="1" style="color: orange !important;text-shadow: black 2px 2px;" -->
 
 Notes:
 
@@ -93,19 +99,19 @@ Notes:
 
 ---
 
-<h1><span style="color: red">Obsolescence programmée</span></h1>
+# Obsolescence programmée
 
 <!-- .slide: data-background-image="media/bfm-windows-obsolete.png" -->
 
 Notes:
 
-Exemples:
-
-* TPM obligé pour Win11
-* Batteries
-* Connecteurs USB
-* CPU ARM non suivi par android
-* Ipad ou tablette non màj
+* Problème de fond : on veut que vous rachetiez du neuf
+* Exemples:
+  * TPM obligé pour Win11
+  * Batteries
+  * Connecteurs USB
+  * CPU ARM non suivi par android
+  * Ipad ou tablette non màj
 
 --
 
@@ -229,20 +235,6 @@ Même pour les films
 
 --
 
-<!-- .slide: data-background-image="media/cd-vinyl.jpg" -->
-
-* CDs, Vinyles <!-- .element: class="fragment" -->
-
-Notes:
-
-* Avantages
-  - On paie une fois pour la vie
-  - On a un joli objet pour l'étagère
-  - On apprend comment ça fonctionne (vinyl)
-  - Très bon marché aux vides-grenier (grâce à Deezer ;-))
-
---
-
 <!-- .slide: data-background-image="media/cloud.jpg" -->
 
 ![nas](media/nas.jpg) <!-- .element: class="fragment" -->
@@ -271,6 +263,7 @@ Rappel : le cloud n'existe pas
 * Binaire + Source 
   - Disponible
   - Analysable (mode d'emploi)
+* ≠ Logiciels privateurs / propriétaires
 
 Notes:
 
@@ -284,7 +277,7 @@ Pour les logiciels, l'opensource va nous sauver !
 
 <!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Logiciel_libre"  data-preload -->
 
-https://fr.wikipedia.org/wiki/Logiciel_libre
+https://fr.wikipedia.org/wiki/Logiciel_libre<!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->
 
 Notes:
 
@@ -326,13 +319,17 @@ Notes:
 * Des fois tout dépend d'un petit composant logiciel
 * Si ce-dernier casse, tout tombe
 * Chateau de cartes
-* Oui c'est déjà arrivé cf. nodejs
 
 --
 
 <!-- .slide: data-background-image="media/elephant-annote.jpg" -->
 
 ![fourmis](media/fourmis-annote.jpg)<!-- .element: class="fragment" style="height: 60vh" -->
+
+Notes:
+
+Une autre manière de voir cette image
+* Oui c'est déjà arrivé cf. nodejs
 
 ---
 
@@ -348,6 +345,11 @@ Notes:
 
 ![gimp](media/gimp.jpg)
 
+Notes:
+
+* Photoshop libre
+* L'un des exemples phares
+
 --
 
 ### Pour Chaque logiciel privateur plus d'une alternative libre
@@ -362,56 +364,95 @@ Notes:
 * Jeux <!-- .element: class="fragment" -->
 * ... <!-- .element: class="fragment" -->
 
+Notes:
+
+Il existe toujours une alternative
+
 --
 
-### la liste est vraiment longue
+### la liste est vraiment longue<!-- .element: style="color: black !important;text-shadow: 0 0px 0px;" -->
 
 <!-- .slide: data-background-iframe="https://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels_propri%C3%A9taires"  data-preload --><!-- .element: class="fragment" -->
 
-https://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels_propri%C3%A9taires
+https://fr.wikipedia.org/wiki/Correspondance_entre_logiciels_libres_et_logiciels_propri%C3%A9taires<!-- .element: style="color: black !important;text-shadow: 0 0px 0px;" -->
+
+Notes:
+
+La liste est longue mais l'on trouve beaucoup de ressources en ligne
 
 --
 
-### pour s'y retrouver
+### pour s'y retrouve<!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->r
 
-<!-- .slide: data-background-iframe="https://framalibre.org/"  data-preload -->
+<!-- .slide: data-background-iframe="https://framalibre.org/" data-preload -->
 
-https://framalibre.org/
+https://framalibre.org<!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->/
 
+Notes:
+
+* Framasoft = réseau d'éducation populaire
+* Consacré principalement au logiciel libre
+* Soutenu depuis 2004 par l'asso éponyme
+* Créé en novembre 2001 par Alexis Kauffmann, Paul Lunetta, et Georges Silva
+* 3 axes
+  - Promotion, Diffusion et Développement de logiciels libres
+  - Enrichissement de la culture libre
+  - Offre de services libres en ligne
 
 --
 
 <!-- .slide: data-background-iframe="https://distrowatch.com/?language=FR"  data-preload -->
 
-Système d'exploitation = OS = Operating System
+Système d'exploitation = OS = Operating System <!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->
 
-Windows vs les linux
+Windows vs Linux <!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->
 
-(Ubuntu, Debian, Gentoo, Slackware, Suse, ... )
+(Ubuntu, Debian, Gentoo, Slackware, Suse, ...) <!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->
+
+Notes:
+
+* distrowatch est un annuaire d'OS libres
 
 --
 
-### os-debian
+### Linux debian
 
 ![debian](media/debian.png)
 
---
+Notes:
 
-### os-haiku
-
-![haiku](media/haiku.png)
+La distribution GNU/Linux la plus ancienne
 
 --
 
-### os-mint
+### Linux mint
 
 ![mint](media/mint.png)
 
+Notes:
+
+La distribution appréciée par les anciens Windowsiens
+
 --
 
-### os-ubuntu
+### Linux ubuntu
 
 ![ubuntu](media/ubuntu.png)
+
+Notes:
+
+La distribution appréciée par la majorité des utilisateurs de desktop
+
+--
+
+### haiku
+
+![haiku](media/haiku.png)
+
+Notes:
+
+* Ce n'est pas Linux
+* Digne successeur de BeOS
 
 --
 
@@ -420,21 +461,31 @@ Windows vs les linux
 
 <!-- .slide: data-background-iframe="https://lesbases.anct.gouv.fr/ressources/les-os-de-smartphones-degooglises" data-preload -->
 
-https://lesbases.anct.gouv.fr/ressources/les-os-de-smartphones-degooglises
+https://lesbases.anct.gouv.fr/ressources/les-os-de-smartphones-degooglises <!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->
 
+Notes:
+
+* OS libres
+* LiberaOS
+* /e/
 
 ---
-
 
 ## Alternatives Matérielles
 
 --
 
-### Fairphone
+### Fairphone <!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->
 
 <!-- .slide: data-background-iframe="https://shop.fairphone.com/fr/fairphone-5" data-preload -->
 
-https://shop.fairphone.com/fr/fairphone-5
+https://shop.fairphone.com/fr/fairphone-5 <!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->
+
+Notes:
+
+* Téléphone réparable
+* Garantie mise à jour logicielle 10 ans
+* Garantie pièces détachées longue durée
 
 --
 
@@ -442,7 +493,11 @@ https://shop.fairphone.com/fr/fairphone-5
 
 <!-- .slide: data-background-iframe="https://www.indicereparabilite.fr/appareils/multimedia/ordinateur-portable/"  data-preload -->
 
-https://www.indicereparabilite.fr/appareils/multimedia/ordinateur-portable/
+https://www.indicereparabilite.fr/appareils/multimedia/ordinateur-portable/ <!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->
+
+Notes:
+
+* Le Repair Café vous remercie si vous achetez un ordinateur facilement réparable
 
 --
 
@@ -450,37 +505,63 @@ https://www.indicereparabilite.fr/appareils/multimedia/ordinateur-portable/
 
 <!-- .slide: data-background-iframe="https://fr.ifixit.com/"  data-preload -->
 
-https://fr.ifixit.com/
+https://fr.ifixit.com/ <!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->
+
+Notes:
+
+* Le Repair Café adore les tutos
 
 --
 
-### Dégooglisons internet !
+### Dégooglisons internet ! <!-- .element: style="color: white !important;text-shadow: black 2px 2px;" -->
 
 <!-- .slide: data-background-iframe="https://degooglisons-internet.org/fr/"  data-preload -->
 
-https://degooglisons-internet.org/fr/
+https://degooglisons-internet.org/fr/ <!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->
 
+Notes:
+
+* Ma vie privée est privée
 
 --
 
-
-### même le gouvernement nous y incite
+### même le gouvernement nous y incite <!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->
 
 <!-- .slide: data-background-iframe="https://lesbases.anct.gouv.fr/ressources/webinaire-adopter-des-outils-ethiques-dans-mon-association"  data-preload -->
 
-https://lesbases.anct.gouv.fr/ressources/webinaire-adopter-des-outils-ethiques-dans-mon-association
+https://lesbases.anct.gouv.fr/ressources/webinaire-adopter-des-outils-ethiques-dans-mon-association <!-- .element: style="color: orange !important;text-shadow: black 2px 2px;" -->
+
+Notes:
+
+* Ne partageons pas tout non plus !
 
 --
 
-### même le gouvernement nous y incite
-
-
 <!-- .slide: data-background-iframe="https://framatube.org/w/1XzQFwBU735v85UmEo2FgL"  data-preload -->
 
+Notes:
+
+* Webinaire framasoft sur l'utilisation éthique de l'outil informatique
+* On vous conseille
 
 ---
+
+### Le futur sera-t-il Opensource ?
+
+![mistral](media/smart-home-mistral-ai.jpeg)
+
+Notes:
+
+* Le futur nous réserve des surprises
+* Voulons-nous jeter notre électroménager car il n'y a plus de mises à jour ?
+
+--
 
 Lien vers cette présentation :
 
 [![qr-code](media/qr-code.png)](https://faxm0dem.github.io/printemps-reparation-2025/)
+
+Notes:
+
+SCANNEZ-MOI !
 
