@@ -334,8 +334,6 @@ Notes:
 
 ![fourmis](media/fourmis-annote.jpg)<!-- .element: class="fragment" style="height: 60vh" -->
 
---
-
 ---
 
 # Les solutions
@@ -427,7 +425,7 @@ Windows vs les linux
 https://lesbases.anct.gouv.fr/ressources/les-os-de-smartphones-degooglises
 
 
---
+---
 
 
 ## Alternatives Matérielles
