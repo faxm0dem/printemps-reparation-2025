@@ -334,8 +334,6 @@ Notes:
 
 ![fourmis](media/fourmis-annote.jpg)<!-- .element: class="fragment" style="height: 60vh" -->
 
---
-
 ---
 
 # Les solutions
@@ -383,15 +381,13 @@ https://framalibre.org/
 
 --
 
-### Pour Chaque logiciel privateur plus d'une alternative libre
-
 <!-- .slide: data-background-iframe="https://distrowatch.com/?language=FR"  data-preload -->
 
 Système d'exploitation = OS = Operating System
 
 Windows vs les linux
 
-(ubuntu, debian, gentoo, slackware, suze, ... )
+(Ubuntu, Debian, Gentoo, Slackware, Suse, ... )
 
 --
 
