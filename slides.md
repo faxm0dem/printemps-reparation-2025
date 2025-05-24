@@ -23,14 +23,14 @@ Notes:
 
 ---
 
-# Les problèmes
+# Les problèmes <!-- .slide: data-autoslide="1" -->
 
 * L'obsolescence programmée
-  - Faire du vieux avec du neuf <!-- .element: class="fragment" data-fragment-index="1" style="color: orange !important;text-shadow: black 2px 2px;" -->
+  - Faire du vieux avec du neuf <!-- .element: class="fragment" data-fragment-index="1" style="color: orange !important;text-shadow: black 2px 2px;" data-autoslide="1" -->
 * L'économie de l'abonnement
-  - L'esclavagisme économique <!-- .element: class="fragment" data-fragment-index="2" style="color: orange !important;text-shadow: black 2px 2px;" -->
+  - L'esclavagisme économique <!-- .element: class="fragment" data-fragment-index="2" style="color: orange !important;text-shadow: black 2px 2px;" data-autoslide="1" -->
 * Le "Vendor Lock-in"
-  - Rendre indispensable <!-- .element: class="fragment" data-fragment-index="3" style="color: orange !important;text-shadow: black 2px 2px;" -->
+  - Rendre indispensable <!-- .element: class="fragment" data-fragment-index="3" style="color: orange !important;text-shadow: black 2px 2px;" data-autoslide="5000" -->
 
 Notes:
 
@@ -354,15 +354,15 @@ Notes:
 
 ### Pour Chaque logiciel privateur plus d'une alternative libre
 
-* Système d'exploitation <!-- .element: class="fragment" -->
-* Navigateur, messageries courriel <!-- .element: class="fragment" -->
-* Retouche/galerie photos <!-- .element: class="fragment" -->
-* Lecteur musique/video <!-- .element: class="fragment" -->
-* Bureautique <!-- .element: class="fragment" -->
-* Sauvegarde <!-- .element: class="fragment" -->
-* Visio-conférence <!-- .element: class="fragment" -->
-* Jeux <!-- .element: class="fragment" -->
-* ... <!-- .element: class="fragment" -->
+* Système d'exploitation <!-- .element: class="fragment" data-autoslide="1" -->
+* Navigateur, messageries courriel <!-- .element: class="fragment" data-autoslide="1" -->
+* Retouche/galerie photos <!-- .element: class="fragment" data-autoslide="1" -->
+* Lecteur musique/video <!-- .element: class="fragment" data-autoslide="1" -->
+* Bureautique <!-- .element: class="fragment" data-autoslide="1" -->
+* Sauvegarde <!-- .element: class="fragment" data-autoslide="1" -->
+* Visio-conférence <!-- .element: class="fragment" data-autoslide="1" -->
+* Jeux <!-- .element: class="fragment" data-autoslide="1" -->
+* ... <!-- .element: class="fragment" data-autoslide="5000" -->
 
 Notes:
 
@@ -537,7 +537,7 @@ Notes:
 
 --
 
-<!-- .slide: data-background-iframe="https://framatube.org/w/1XzQFwBU735v85UmEo2FgL"  data-preload -->
+<!-- .slide: data-background-iframe="https://framatube.org/w/1XzQFwBU735v85UmEo2FgL" -->
 
 Notes:
 
@@ -564,4 +564,8 @@ Lien vers cette présentation :
 Notes:
 
 SCANNEZ-MOI !
+
+--
+
+<!-- .slide: data-background-iframe="https://repaircafe-rhone.fr/#services"  data-preload data-autoslide="15000" -->
 
